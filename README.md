@@ -13,6 +13,8 @@ If you have not already requested access for these, please contact your Refiniti
 
 To run the Eikon Data API Samples - you will need access to the newest 1.1.x Eikon Python library. If you have not already requested access for these, please contact your Refinitiv Sales or Account Team to get access to this library as it is going into EAP very shortly. Ahead of this I have made the samples available for you to at least see the code involved. 
 
-To stay updated with the latest news, articles, samples, video tutorials, Q&A forums and much more please go to https://developers.refinitiv.com/home 
+To access the slides from Dr. Yves Hilpisch's presentation please go to: http://hilpisch.com/ref_dev_day.pdf 
+
+To stay updated with the latest news, articles, samples, video tutorials, Q&A forums and much more please go to: https://developers.refinitiv.com/home 
 
 
