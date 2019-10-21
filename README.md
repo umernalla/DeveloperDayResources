@@ -1,4 +1,4 @@
-# DeveloperDayResources
+# Refinitiv Developer Day Resources
 
 Here you will find resources including code samples from the presentations for our Refinitiv EMEA Developer Day Series.
 
