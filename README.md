@@ -15,6 +15,8 @@ To run the Eikon Data API Samples - you will need access to the newest 1.1.x Eik
 
 To access the slides from Dr. Yves Hilpisch's presentation please go to: http://hilpisch.com/ref_dev_day.pdf 
 
+To access the slides from Felix Zumstein's presentation and code samples please go to: https://github.com/xlwings/xlwings-eikon and also https://gitlab.com/xlwings/xlwings-workflow 
+
 To stay updated with the latest news, articles, samples, video tutorials, Q&A forums and much more please go to: https://developers.refinitiv.com/home 
 
 
