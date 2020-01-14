@@ -5,6 +5,7 @@ Here you will find resources including code samples from the presentations for o
 Please find a .pdf version of the API/Platform Strategy deck we presented.
 
 Our New Refinitiv Data Platform Library
+
   As part of our recent Refinitiv Developer Days Series, I spent the last few months travelling around Europe giving members    of our developer community a sneak peek at our exciting new Refinitiv Data Platform Library.
 
   The feedback was so positive, I felt it was only right to share this with our wider community - showcasing some of the key    features which will make the Refinitiv Data Platform Library such a useful addition to our current set of APIs.
@@ -22,6 +23,7 @@ Our New Refinitiv Data Platform Library
   You can also find sample code on GitHub in .NET and Python flavours.
 
 New Eikon Streaming Library
+
   To run the Eikon Data API Samples - you will need access to the newest 1.1.2 Eikon Python library which is just released     into EAP. You can find detail on where to get this new package, how to install it and code samples from:                     https://developers.refinitiv.com/eikon-apis/eikon-data-api/learning?content=81721&type=learning_material_item 
 
 To access the slides from Dr. Yves Hilpisch's presentation please go to: http://hilpisch.com/ref_dev_day.pdf 
